@@ -45,10 +45,10 @@ flowchart TD
 
 | 课程 | 链接 | 适合人群 |
 |---|---|---|
-| Introduction to Agent Skills | [点击进入](https://anthropic.skilljar.com/introduction-to-agent-skills) | ⭐ 所有人，尤其推荐非开发者 |
-| Claude Code in Action | [点击进入](https://anthropic.skilljar.com/claude-code-in-action) | ⭐ 所有人必看 |
-| Claude with the Anthropic API | [点击进入](https://anthropic.skilljar.com/claude-with-the-anthropic-api) | 开发者 |
-| Introduction to Model Context Protocol | [点击进入](https://anthropic.skilljar.com/introduction-to-model-context-protocol) | 开发者 |
+| Introduction to Agent Skills | https://anthropic.skilljar.com/introduction-to-agent-skills | ⭐ 所有人，尤其推荐非开发者 |
+| Claude Code in Action | https://anthropic.skilljar.com/claude-code-in-action | ⭐ 所有人必看 |
+| Claude with the Anthropic API | https://anthropic.skilljar.com/claude-with-the-anthropic-api | 开发者 |
+| Introduction to Model Context Protocol | https://anthropic.skilljar.com/introduction-to-model-context-protocol | 开发者 |
 
 > 课程风格：example-oriented，用几秒讲理论，然后完整的 end-to-end example 带你走一遍。
 > 学完真的能直接用，不会因为 terminal 里改了一个配置就不知所措 💪
