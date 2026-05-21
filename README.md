@@ -22,13 +22,13 @@ flowchart TD
     I --> J["新目标 ✨<br/>✓ 了解基础计算机 & AI 知识<br/>✓ 学会使用 Claude Code<br/>✓ 专注 Skills 课程（更适合新手）<br/>✓ 拿每门课的 certificate<br/>过考试只是 motivator，学到才是真的"]
 ```
 
-**各路径推荐学习顺序：**
+**各路径推荐学习顺序（最短路径，也可以慢慢看不着急）：**
 
 | 路径 | 推荐顺序 |
 |---|---|
-| 🏃 工程师 | Practice Exam → Study Guide 补盲点 → 考试 |
-| 📅 开发者（无 Agent 经验） | 课程（重点）→ Practice Exam → 考试 |
-| 🌱 非开发者 | Skills 课程 → Claude Code in Action → 其他课程 → 拿 certificate |
+| 🏃 工程师 | 过课/Study Guide 补盲点（一天） → Practice Exam （一天） → 考试 |
+| 📅 开发者（无 Agent 经验） | 课程（重点 2天）→ study guide(1-2天)→ Practice Exam（一天） → 考试 |
+| 🌱 非开发者 | Skills 课程（1-3天） → Claude Code in Action（选读 → 其他课程 → 拿单门课certificate |：重点观众内容：terminal的使用，file system的了解，local path的概念，claude skills
 | 📚 深入学习 / 国内用户 | 四门课全部完成 → 拿 certificate → 按需决定是否考试 |
 
 ---
