@@ -67,7 +67,7 @@ flowchart TD
 - **备考资料**（在本 repo 内直接下载）：
   - [Study Guide](./guide.pdf) — 考试范围概览，配合 practice exam 用
   - [FAQ](./FAQ.pdf) — 常见问题汇总
-- **Practice Exam**：报名后获得，60 道题，格式与正式考试非常接近，建议做 **2–3 遍**直到全都搞懂
+  - Practice Exam: 报名后再FAQ里，不考证不需要看（对学习ai知识帮助有限）， 60 道题，格式与正式考试非常接近，建议做 **2–3 遍**直到全都搞懂
 
 ---
 
